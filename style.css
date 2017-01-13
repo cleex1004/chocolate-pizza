@@ -1,0 +1,68 @@
+body {
+  display: inline-block;
+  width: 80%
+}
+section {
+  display: block;
+  overflow: auto;
+  width: 80%;
+}
+h1 {
+  font-family: impact;
+}
+h2 {
+  font-family: 'Pacifico';
+}
+h3 {
+  font-family: 'tahoma';
+}
+h4 {
+
+}
+h5 {
+
+}
+p {
+  font-family: 'palatino';
+}
+ul {
+  font-family: 'Comic Sans MS';
+}
+#logo {
+  float: left;
+}
+#delicious {
+  float: left;
+}
+#icons {
+  float: right;
+}
+#chocolate-pizza {
+  align-content:left;
+}
+/*#printunit {
+  float: right;
+}*/
+#print {
+  text-align: right;
+  display: inline;
+
+}
+#print-icon {
+  align-content: right;
+  display: inline;
+  float:right;
+}
+#recipe-card {
+  background-image: url(https://github.com/codefellows/seattle-201d18/blob/master/class-10-js_debugging-wireframe_part_2/lab-assets/list-bg.png?raw=true);
+}
+#bio-pic {
+  float: left;
+}
+#vaness {
+  float: left;
+}
+#footer {
+  align-items: center;
+  text-align: center;
+}
