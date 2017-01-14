@@ -1,0 +1,185 @@
+body {
+  display: block;
+  width: 80%;
+  padding-left: 10%;
+  padding-right: 10%;
+  margin-left: 10%;
+  margin-right: 10%;
+}
+section {
+  display: inline-block;
+  overflow: auto;
+  width: 80%;
+}
+h1 {
+  font-family: impact;
+  font-size: 30px;
+}
+h2 {
+  font-family: 'Pacifico';
+}
+h3 {
+  font-family: 'tahoma';
+  display: inline-block;
+  font-size: 10px
+}
+h4 {
+  font-size: 18px;
+}
+h5 {
+
+}
+p {
+  font-family: 'palatino';
+  text-indent: 15px;
+}
+ul {
+  font-family: 'Comic Sans MS';
+  list-style: square;
+}
+.line {
+  background: repeating-linear-gradient(45deg,
+grey, grey 2px, white 2px, white 4px);
+  width: 80%;
+  height: 12px;
+  border: 2px;
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+#header {
+  align-items: center;
+}
+#logo {
+  float: left;
+  margin-top: 8px;
+}
+#delicious-head {
+  float: left;
+  margin-left: 5px;
+}
+#delicious {
+  margin-bottom: 0px;
+  padding-bottom: 0px;
+  margin-top: 0px;
+}
+#best-blog {
+  margin-top: 0px;
+  font-size: 8px;
+  margin-bottom: 0px;
+}
+#icons-p {
+  margin-top: 12px;
+  margin-bottom: 12px;
+}
+#icons {
+  float: right;
+}
+#main {
+  display: inline-block;
+  align-content: center;
+}
+#title {
+  display: block;
+  align-items: center;
+}
+#post-title {
+  float: left;
+}
+#chocolate-pizza {
+  margin-top: 20px;
+  margin-bottom: 0px;
+}
+#post-date {
+  margin-top: 0px;
+}
+#print-unit {
+  display: inline-block;
+  float: right;
+  margin-top: 30px;
+}
+#print {
+  /*text-align: right;*/
+  display: inline-block;
+}
+#print-icon {
+  float:right;
+}
+#pizza-pic {
+  display: inline-block;
+  align-content: center;
+  width: 100%;
+}
+#recipe-card {
+  display: inline-block;
+  background-image: url(https://github.com/codefellows/seattle-201d18/blob/master/class-10-js_debugging-wireframe_part_2/lab-assets/list-bg.png?raw=true);
+  padding-left: 10%;
+  padding-right: 10%;
+  width:inherit;
+}
+#left-side {
+  float: left;
+  width: 300px;
+}
+#right-side {
+  float: right;
+  width: 300px;
+}
+#bio {
+  display: inline-block;
+  float: left;
+  overflow: auto;
+}
+#bio-pic {
+  float: left;
+}
+#bio-text-div {
+  display: inline-block;
+  float: left;
+  overflow: auto;
+  margin-left: 8px;
+}
+#vanessa {
+  display: inline-block;
+  /*float: left;*/
+  text-indent: 0px;
+  margin-bottom: 2px;
+  margin-top: 2px;
+  font-size: 20px;
+  /*padding-right: 80px;*/
+}
+#bio-p {
+  display: block;
+  /*float: left;*/
+  text-indent: 0px;
+  margin-bottom: 2px;
+  margin-top: 2px;
+  font-size: 16px;
+  /*padding-right: 80px;*/
+}
+#button {
+  display: inline-block;
+  float: right;
+  margin: 5px;
+  padding: 10px;
+  padding-left: 35px;
+  padding-right: 35px;
+  background-color: #a34729;
+  color: white;
+  font-size: 15px;
+  margin-left: 132px;
+  margin-top: 15px;
+}
+#footer {
+  align-items: center;
+  text-align: center;
+}
+#short-line-left {
+  float: left;
+}
+#short-line-right {
+  float: right;
+}
+#foot-p {
+  text-indent: 0px;
+  font-size: 10px;
+}
