@@ -111,18 +111,18 @@ grey, grey 2px, white 2px, white 4px);
 }
 #recipe-card {
   display: inline-block;
-  background-image: url(https://github.com/codefellows/seattle-201d18/blob/master/class-10-js_debugging-wireframe_part_2/lab-assets/list-bg.png?raw=true);
+  background-image: url(img/list-bg.png);
   padding-left: 10%;
   padding-right: 10%;
   width:inherit;
 }
 #left-side {
   float: left;
-  width: 300px;
+  width: 250px;
 }
 #right-side {
   float: right;
-  width: 300px;
+  width: 250px;
 }
 #bio {
   display: inline-block;
